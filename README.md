@@ -9,9 +9,9 @@ The program, once run allows to perform basic CRUD operations using JpaRepositor
 
 ## Operations
 
-demo base access point: http://localhost:9090/user/
+> demo base access point: http://localhost:9090/user/
 
-POST              - save a single user
-GET /{id}         - get user by id
-GET               - get a list of all users
-DELETE /{id}      - delete user with id
+- POST              - save a single user 
+- GET /{id}         - get user by id
+- GET               - get a list of all users
+- DELETE /{id}      - delete user with id
